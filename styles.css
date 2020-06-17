@@ -1,7 +1,12 @@
 html, body {
-    margin: 0;
+    margin-top: 100;
     padding: 0;
-    background-color: rgb(55,6,23);
+    /* background-color: rgb(55,6,23); */
+    /* background: rgb(195,93,34);
+    background: linear-gradient(0deg, rgba(195,93,34,1) 24%, rgba(253,219,45,1) 47%); */
+    /* background: rgb(45,253,226);
+    background: linear-gradient(180deg, rgba(45,253,226,1) 51%, rgba(34,34,195,1) 77%); */
+    background: rgb(75, 7, 16);
 }
 
 canvas {
@@ -10,4 +15,5 @@ canvas {
     border-style: solid;
     border-width: 10px;
     border-color: rgb(208, 0, 0);
+    background: linear-gradient(180deg, rgba(232,93,4,1) 24%, rgba(121,1,5,1) 45%);
 }
